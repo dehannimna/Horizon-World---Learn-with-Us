@@ -1,0 +1,112 @@
+
+
+
+
+body{
+    background-color: rgb(0, 0, 0);
+}
+
+.logo{
+    display: flex;
+    justify-content: center;
+    margin-top: -120px;
+}
+
+.navbar ul li {
+    display: inline;
+    
+    
+}
+
+.navbar ul li a  {
+    margin-left: 100px;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    
+}
+
+.navbar{
+    margin-left: 400px;
+    margin-top: -210px;
+    position: fixed;
+}
+
+.background{
+    margin-top: -18%;
+}
+
+.btext{
+    margin-top: -830px;
+
+}
+
+.abouttext{
+    color: white;
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+}
+
+.aboutpr{
+    color: rgb(243, 0, 206);
+    width: 700px;
+    height: 1000px;
+    display: flex;
+    text-align: center;
+    margin-left: 350px;
+    font-size: 20px;
+}
+
+.yt{
+    margin-top: -500px;
+    margin-left: 420px;
+}
+
+.button{
+    padding: 10px;
+    color: rgb(255, 255, 255);
+    border-radius: 10px;
+    background-color: transparent;
+    margin-top: 70px;
+    margin-left: 660px;
+}
+
+.button a {
+    text-decoration: none;
+}
+
+.lighroom1{
+    font-size: 100px;
+    color: white;
+    margin-top: -600px;
+    margin-left: 400px;
+
+}
+
+.yt2{
+    margin-left: 418px;
+    margin-top: 800px;
+    
+}
+
+
+.button2{
+    padding: 10px;
+    color: rgb(255, 255, 255);
+    border-radius: 10px;
+    background-color: transparent;
+    margin-top: 40px;
+    margin-left: 660px;
+}
+
+.button2 a {
+    text-decoration: none;
+}
+
+.camping{
+    font-size: 100px;
+    color: white;
+    margin-top: -600px;
+    margin-left: 460px;
+
+}
